@@ -19,7 +19,7 @@
 
 ## Screenshots
 
-<img src="https://github.com/Spidy20/Streamlit_Bank_Loan_Prediction/blob/master/sc1.png">
+<img src="https://github.com/krunalpatel292002/Loan_prediction_system/blob/main/Streamlit_Bank_Loan_Prediction-master/Screenshot_2023-05-30-21-39-52-48_e2d5b3f32b79de1d45acd1fad96fbb0f%20(1).jpg">
 <img src="https://github.com/Spidy20/Streamlit_Bank_Loan_Prediction/blob/master/sc2.png">
 <img src="https://github.com/Spidy20/Streamlit_Bank_Loan_Prediction/blob/master/sc3.png">
 
